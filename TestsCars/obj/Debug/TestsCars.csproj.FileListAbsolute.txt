@@ -1,0 +1,15 @@
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\TestsCars.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\TestsCars.pdb
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\Cars.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\Cars.pdb
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\obj\Debug\TestsCars.csproj.AssemblyReference.cache
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\obj\Debug\TestsCars.csproj.CoreCompileInputs.cache
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\obj\Debug\TestsCars.csproj.CopyComplete
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\obj\Debug\TestsCars.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\TestsCars\obj\Debug\TestsCars.pdb

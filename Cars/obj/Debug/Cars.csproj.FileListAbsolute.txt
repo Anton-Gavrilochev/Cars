@@ -1,0 +1,6 @@
+C:\Users\Anton-PC\Documents\GitHub\Cars\Cars\bin\Debug\Cars.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\Cars\bin\Debug\Cars.pdb
+C:\Users\Anton-PC\Documents\GitHub\Cars\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\Anton-PC\Documents\GitHub\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Anton-PC\Documents\GitHub\Cars\Cars\obj\Debug\Cars.dll
+C:\Users\Anton-PC\Documents\GitHub\Cars\Cars\obj\Debug\Cars.pdb
